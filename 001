@@ -1,0 +1,120 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset=utf-8>
+     <meta name="author" content="某某">
+    <meta name="create-date" content="xx-xx-xxxx">
+    <title>百度部分版块介绍</title>
+</head>
+<body>
+    <div id="1"><h1>功能链接</h1>
+    <ul>
+   <li><a href="https://www.baidu.com/" title="百度一下">百度搜索</a></li>
+        <li><a href="http://ife.baidu.com/" title="百度前端学院">百度前端学院</a></li>
+        <li><a href="https://tieba.baidu.com/index.html" title="百度贴吧">百度贴吧</a></li>
+        <li><a href="https://zhidao.baidu.com/" title="百度知道">百度知道</a></li>
+        
+    </ul>
+    </div>
+    <div id="2"><h2>百度前端技术学院</h2>
+    <h3>怎样在百度前端技术学院学习？</h3>
+    <pre>随_缘2012    xx-xx-xxxx</pre>
+    <p>自从2014年，百度开办了<a href="http://ife.baidu.com/" title="百度前端">百度前端学院</a>之后，为许多学习web前端技术找不到路的朋友提供了一条学习的路径。2016年百度更是加大了对web前端技术学院的支持，对广大在职大学生和工作人员提供了一次好的学习机会，下面跟随小编一起来看看怎么在百度前端技术学院进行web前端学习!<br/>
+    首先，我们打开自己常用的浏览器，在搜索引擎中搜索百度前端技术学院。<br/>
+    接着我们在搜索结果页找到百度前端技术学院，然后用鼠标点击进入其网站。<br/>
+    在百度前端技术学院网站的主页中我们可以看到其有关介绍、报名、查看任务。<br/>
+    <img src="http://g.hiphotos.baidu.com/exp/w=500/sign=55897b43f003918fd7d13dca613c264b/2934349b033b5bb5ff440c5d31d3d539b700bc85.jpg" alt="百度前端技术学院图片"
+    2016春季报名已经过去，不过没关系，我们照样可以跟着学习。点击查看春季班详情，先对这次学习之旅有个大概认识。<br/>
+    在春季班详情界面，介绍了百度前端技术学院和2016春季班的一些情况及学习任务等等。<br/>
+    回到<a href="http://ife.baidu.com/" title="百度前端学院" target="_blank">百度前端学院</a>主页，我们点击查看任务，看下有哪些学习任务。如今已经公布了两个阶段的任务，一是学习和掌握html和css的任务，二是学习和掌握JavaScript的一些任务。<br/>
+    大家在学习基础知识的同时，多多练习其发布的学习任务，对于html、css、JavaScript等知识的掌握是很有帮助的。<br/>
+    </p></div>
+    <div id="3">
+    <h2>百度知道</h2>
+    <h3>内容简介</h3>
+    <pre> 某某       xx-xx-xxxx </pre>
+    <p>“<a href="https://zhidao.baidu.com/" title="百度知道">百度知道</a>”，是用户自己根据具有针对性地提出问题，通过积分奖励机制发动其他用户，来解决该问题的搜索模式。<br/> 同时，这些问题的答案又会进一步作为搜索结果，提供给其他有类似疑问的用户，达到分享知识的效果。<br/>
+百度知道的最大特点，就在于<b>和搜索引擎的完美结合</b>，让用户所拥有的隐性知识转化成显性知识，用户既是百度知道内容的使用者，同时又是百度知道的创造者，在这里累积的知识数据可以反映到搜索结果中。通过用户和搜索引擎的相互作用，实现搜索引擎的社区化。<br/>
+百度知道也可以看作是对搜索引擎功能的一种补充，让用户头脑中的隐性知识变成显性知识，通过对回答的沉淀和组织形成新的信息库，其中信息可被用户进一步检索和利用。这意味着，用户既是搜索引擎的使用者，同时也是创造者。百度知道可以说是对过分依靠技术的搜索引擎的一种人性化完善。</p>
+<img src="https://imgsa.baidu.com/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=894f10751d950a7b613846966bb809bc/0df3d7ca7bcb0a463758c07a6b63f6246b60af7f.jpg" alt="百度知道图片">
+<ul>
+    <li>如何使用</li>
+    <li>知道积分</li>
+    <li>用户体系</li>
+</ul>
+<img src="https://imgsa.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=342d7ce1bc3eb13550cabfe9c777c3b6/267f9e2f07082838ab178c1db899a9014c08f1a5.jpg" alt="图片">
+<img src="https://imgsa.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=e4eaf1f3d1c8a786aa27425c0660a258/03087bf40ad162d93326331511dfa9ec8b13cdeb.jpg" alt="图片">
+<img src="https://imgsa.baidu.com/baike/w%3D268/sign=6ed4eeebd933c895a67e9f7de9127397/b151f8198618367abb44e6a12e738bd4b21ce5f9.jpg" alt="图片"><br/>
+<img src="https://imgsa.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=180bac2e7f3e6709aa0d4dad5aaef458/0b7b02087bf40ad1dd5497ea572c11dfa9ecce03.jpg" alt="图片"></div>
+<div id="4">
+<h2>百度贴吧</h2>
+<h3>基本介绍</h3>
+<pre>某某    xx-xx-xxxx</pre>
+<ol>
+    <li>贴吧导航</li>
+    <li>大事记载</li>
+    <li>等级制度</li>
+</ol>
+<table border="1">
+    <tbody>
+        <caption>表格</caption>
+       
+       <tr><th>百度旗下产品</th></tr> <tr>
+        <td>搜索服务</td>
+        <td>导航服务</td>
+        <td>社区服务</td>
+        </tr>
+        <tr><td>百度网页搜索</td>
+        <td>百度网站</td>
+        <td>百度百科</td></tr>
+        <tr><td>百度视频</td>
+        <td>百度团购</td>
+        <td>百度空间</td>
+        </tr>
+        <tr><td>百度新闻</td><td>HAO123</td><td>百度经验</td></tr>
+        
+    </tbody>
+    
+</table>
+</div>
+<div id="5" class="sidebar">
+    <h2>注册</h2>
+    <form>
+        <label for="email">请输入邮箱地址:</label>
+        <input type="text" id="email" name="youxiang" placeholder="例：123456789@qq.com"/><br/>
+        <label for="password">请输入密码:</label>
+        <input type="password" id="password" name="mima" placeholder="6-16位英文数字"/><br/>
+        <label for="password2">请重复输入密码:</label>
+        <input type="password" id="password2" name="mima2" placeholder="6-16位英文数字"/><br/>
+        <label>性别:</label>
+        <input type="radio" id="man" value="1" name="xb" checked="checked"/>
+        <label for="man">男</label>
+       <input type="radio" id="woman" value="2" name="xb" />
+        <label for="woman">女</label><br/>
+        <label for="cs">城市:</label>
+        <select>
+            <option value="bj" selected="selected">北京</option>
+            <option value="tj" >天津</option>
+            <option value="sh" >上海</option>
+            <option value="sz" >深圳</option>
+            <option value="gz">广州</option>
+            
+        </select><br/>
+        <label>爱好:</label>
+        <input type="checkbox" value="1" id="yd" name="ah"/>
+        <label for="yd">运动</label>
+        <input type="checkbox" value="2" id="ys" name="ah"/>
+        <label for="ys">艺术</label>
+        <input type="checkbox" value="3" id="kx" name="ah"/>
+        <label for="kx">科学</label><br/>
+        <label for="grms">个人描述:</label>
+        <textarea  id="grms" rows="10" cols="50" placeholder="请输入您的个人描述"></textarea><br/>
+        <input type="submit" value="确认提交"/>
+   
+        
+        
+    </form>
+</div>
+
+</body>
+</html>
